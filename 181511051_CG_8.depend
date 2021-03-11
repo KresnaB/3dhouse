@@ -1,0 +1,16 @@
+# depslib dependency file v1.0
+1610878595 source:c:\users\kresna\downloads\sm5\cg\181511051_cg_8\bmploader.cpp
+	"BmpLoader.h"
+	<stdio.h>
+	<iostream>
+
+1610878603 c:\users\kresna\downloads\sm5\cg\181511051_cg_8\bmploader.h
+	<windows.h>
+
+1611071619 source:c:\users\kresna\downloads\sm5\cg\181511051_cg_8\main.cpp
+	<stdlib.h>
+	<GL/glut.h>
+	<GL/freeglut.h>
+	"BmpLoader.h"
+	<iostream>
+
